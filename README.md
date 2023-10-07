@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-dashzer&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-dashzer" /> </p>
 
-- 🌱 I’m currently learning **React-native**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React , Javascript , frontend webdevelopment**
+- 💬 Ask me about **React , Redux , Javascript , frontend webdevelopment**
 
 - 📫 How to reach me **sachin8287037611@gmail.com**
 
