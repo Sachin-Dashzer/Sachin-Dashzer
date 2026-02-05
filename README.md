@@ -1,15 +1,15 @@
 [![MasterHead](https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=3840&q=75)](https://rishavchanda.io)
 
 <h1 align="left">Hey There 👋, I'm Sachin Kumar</h1>
-<h3 align="left">A passionate MERN Stack Developer & Tutor from India 🇮🇳</h3>
+<h3 align="left">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-dashzer&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-dashzer" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-dashzer&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-dashzer" /> </p> -->
 
 ## 👨‍💻 About Me
 
-- 🚀 **10+ years** of experience in Full Stack Development
+- 🚀 **2+ years** of experience in Full Stack Development
 - 💼 Currently building **Ryan CRM** - A comprehensive healthcare management system for multi-branch hair transplant clinics
 - 🎓 Working as a **MERN Stack Tutor** helping developers master modern web technologies
 - 🔨 Specializing in complex enterprise applications with audit trails, role-based access control, and financial management
