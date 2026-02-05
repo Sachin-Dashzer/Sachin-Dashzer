@@ -59,6 +59,16 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-dashzer&show_icons=true&locale=en&layout=compact&theme=radical" alt="sachin-dashzer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-dashzer&show_icons=true&locale=en&theme=radical" alt="sachin-dashzer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-dashzer&theme=radical" alt="sachin-dashzer" /></p>
+
+---
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-Expert-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
